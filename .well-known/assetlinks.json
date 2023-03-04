@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.xlfpx.LfpStorageApp",
+      "sha256_cert_fingerprints": [
+        "47:D5:1A:CC:AE:FD:23:93:D8:DA:26:F5:86:FC:DC:17:2F:81:03:9E:1C:8D:7F:1D:30:D3:77:3D:20:EE:A9:6C"
+      ]
+    }
+  }
+]
